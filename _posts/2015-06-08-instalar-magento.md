@@ -24,4 +24,4 @@ date: 2015-06-08 19:56:02
 * .DS_Store
 * Thumbs.db
 * Arquivos dos editores de texto
-* E dentro do Magento ignorar tudo conforme o [https://github.com/github/gitignore/blob/master/Magento.gitignore](gitignore provido pelo GitHub)
+* E dentro do Magento ignorar tudo conforme o [gitignore provido pelo GitHub](https://github.com/github/gitignore/blob/master/Magento.gitignore)
