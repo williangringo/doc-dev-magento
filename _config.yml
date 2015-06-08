@@ -19,11 +19,8 @@ codeurl: 'https://github.com/hibrido/doc-dev-magento'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['doc', 'Documentation'],
-    ['tut', 'Tutorial'],
-    ['ref', 'Reference'],
-    ['dev', 'Developers'],
-    ['post', 'Posts']
+    ['nunca-esquecer', 'Nunca esquecer'],
+    ['setup-inicial', 'Setup Inicial']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific

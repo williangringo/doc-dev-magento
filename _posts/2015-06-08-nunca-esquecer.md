@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Nunca esquecer"
-category: doc
+title: "-"
+category: nunca-esquecer
 date: 2015-06-08 19:43:23
 ---
 
