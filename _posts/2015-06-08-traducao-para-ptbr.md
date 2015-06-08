@@ -18,3 +18,9 @@ Colocar os arquivos da tradução na worktree
 
 Instalar o arquivo de tradução do banco de dados que o Mario SAM manda junto com
 a tradução
+
+### Designorar os arquivos da tradução
+
+Precisamos designorar os arquivos da tradução do Mario SAM, pois, o gitignore
+fornecido pelo Github ignora todos os arquivos padrão do Magento ... logo ele
+ignora os arquivos da tradução também
