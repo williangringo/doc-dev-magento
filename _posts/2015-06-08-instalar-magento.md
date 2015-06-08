@@ -3,23 +3,24 @@ layout: page
 title: "Instalar Magento"
 category: setup-inicial
 date: 2015-06-08 19:56:02
+order: 1
 ---
 
-# Arquivos
+### Arquivos
 
 ...
 
-# Bance de dados
+### Bance de dados
 
 ...
 
-# Arquivos de configuração
+### Arquivos de configuração
 
 * local.xml.local
 * local.xml.teste
 * local.xml.live
 
-# Ignores
+### Ignores
 
 * .DS_Store
 * Thumbs.db

@@ -1,15 +1,20 @@
 ---
 layout: page
-title: "Tradução para pt_BR do Mario SAM"
+title: "Tradução para pt_BR"
 category: setup-inicial
 date: 2015-06-08 20:00:05
+order: 2
 ---
 
-# Arquivos
+### Qual?
+
+Vamos utilizar a do Mario SAM
+
+### Arquivos
 
 Colocar os arquivos da tradução na worktree
 
-# Banco de dados
+### Banco de dados
 
 Instalar o arquivo de tradução do banco de dados que o Mario SAM manda junto com
-a tradução.
+a tradução
